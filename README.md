@@ -5,7 +5,7 @@ This repository contains **Task 3** of my **CodSoft Web Development Virtual Inte
 
 ## 📋 Task Overview
 
-Build a music player web application with the following features:
+Build a simple static web music player with the following features:
 - Play, pause, and skip tracks (next/previous)
 - A progress bar showing playback position, with click-to-seek
 - A playlist/song list the user can browse and select from
