@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Large media (uncomment if you don't want to commit your actual mp3s to GitHub)
+# songs/*.mp3
